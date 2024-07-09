@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Replace 'your_subscription_key_here' with your actual Azure subscription key
-SUBSCRIPTION_KEY = 'bdb9bb4c7405445b8de2ba7e9c5ca050'
+SUBSCRIPTION_KEY = 'Your Subscription Key'
 REGION = 'global'  # Replace 'your_region_here' with your Azure region, e.g., 'westeurope'
 
 # Microsoft Translator API function
